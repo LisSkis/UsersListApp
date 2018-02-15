@@ -1,0 +1,15 @@
+:local(.loading) {
+  height: 200px;
+}
+
+:local(.modal) {
+  margin-top: 150px;
+}
+
+:local(.root) {
+  margin-top: 50px;
+}
+
+:local(.add-button) {
+  margin-bottom: 8px;
+}
